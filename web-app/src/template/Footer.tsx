@@ -1,8 +1,8 @@
-import Link from 'next/link';
+// import Link from 'next/link';
 
 import { Background } from '../background/Background';
 import { FooterCompanyInfo } from '../footer/FooterCompanyInfo';
-import { FooterLinks } from '../footer/FooterLinks';
+// import { FooterLinks } from '../footer/FooterLinks';
 import { FooterTwoRowsCopyright } from '../footer/FooterTwoRowsCopyright';
 import { Section } from '../layout/Section';
 import { AppConfig } from '../utils/AppConfig';
